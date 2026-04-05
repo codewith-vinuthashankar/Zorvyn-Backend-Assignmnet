@@ -1,4 +1,4 @@
-# Finance Data Processing and Access Control Backend
+# Zorvyn-Backend-Assignmnet
 
 # Overview
 
@@ -16,7 +16,7 @@ This project is a backend system for managing financial records with role-based 
 * **ADMIN** → Full access (create, update, delete)
 * **ANALYST** → View records and dashboard
 * **VIEWER** → Read-only access
-* 
+
 # Features
 
  1. User Management
